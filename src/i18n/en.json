@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+  "about": {
+    "nav_left": "Victor Conde Portfolio",
+    "title": "About Me",
+    "greeting": "Hello!",
+    "name": "I'm Victor Conde!",
+    "content": "I am a passionate educator and developer. This portfolio showcases some of my personal and professional projects, as well as my experience."
+  },
+  "projects": {
+    "title": "Projects",
+    "description": "Here are some of my projects in Android Development using Kotlin.",
+    "card_game": {
+      "title": "Card Game",
+      "description": "A card selection game where you must collect ten unique colors to win. Each selection triggers a phone notification with the card obtained."
+    },
+    "scroller": {
+      "title": "Endless Scroller",
+      "description": "An Instagram-like endless scroller displaying numbered boxes. Future updates will integrate picture display and 'like' functionality."
+    },
+    "translator": {
+      "title": "Japanese Text Translator",
+      "description": "An application for Japanese websites. When you copy Japanese text, its definition and reading in English and Hiragana are displayed. The copied word, its reading, definition, date, and timestamp are saved to a separate 'star' page for later review."
+    }
+  },
+  "experience": {
+    "title": "Experience",
+    "education": {
+      "title": "Education Experience",
+      "description_p1": "With 11 years in education, I have taught English and foreign languages in South Korea, Japan, and the United States, covering English, Spanish, French, Korean, and Japanese. I also initiated language classes and extracurricular clubs and am a member of the Korean Language Teachers of America and the Japanese Language Teachers of America associations.",
+      "description_p2": "Currently, I serve as Lead Curriculum Designer at GHJ International, teaching university students TEFL for certification. I specialize in ESOL and ESE, with expertise in SIOP, Dyslexia, Reading and Literacy across multiple languages, UDL, Differentiation, Small Groups, and Targeted Intervention.",
+      "description_p3": "I have also tutored for SAT, ACT, and FAST with excellent results.",
+      "skills": {
+        "english_teaching": "English Teaching",
+        "foreign_languages": "Foreign Languages",
+        "curriculum_design": "Curriculum Design",
+        "esol_specialist": "ESOL Specialist",
+        "ese_specialist": "ESE Specialist",
+        "siop": "SIOP",
+        "dyslexia": "Dyslexia",
+        "reading_literacy": "Reading & Literacy",
+        "udl": "UDL",
+        "differentiation": "Differentiation",
+        "small_groups": "Small Groups",
+        "targeted_intervention": "Targeted Intervention",
+        "sat_act_tutoring": "SAT/ACT Tutoring",
+        "fast_tutoring": "FAST Tutoring"
+      }
+    },
+    "technology": {
+      "title": "Technology Experience",
+      "description": "With a background in Management of Information Systems and a specialization in Education Technology, I am passionate about coding and have taught coding in various settings. My expertise includes Kotlin/Java for Android development, Swift for iOS development, and JavaScript (primarily Vue.js) for web development. I also have experience in Python and C++ for game programming.",
+      "skills": {
+        "kotlin_java": "Kotlin/Java",
+        "swift": "Swift",
+        "javascript": "JavaScript",
+        "vuejs": "Vue.js",
+        "python": "Python",
+        "cpp": "C++",
+        "game_programming": "Game Programming",
+        "edtech": "EdTech"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Me",
+    "description": "Feel free to reach out to me via email or connect with me on LinkedIn and GitHub!"
+  }
+}

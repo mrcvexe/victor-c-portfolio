@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "about": "私について",
+    "projects": "プロジェクト",
+    "experience": "経験",
+    "contact": "連絡先"
+  },
+  "about": {
+    "nav_left": "ビクター・コンデ ポートフォリオ",
+    "title": "私について",
+    "greeting": "はじめまして、",
+    "name": "ビクター・コンデです！",
+    "content": "私は情熱的な教育者であり、開発者です。このポートフォリオでは、私の個人的なプロジェクトや職務経験を紹介しています。"
+  },
+  "projects": {
+    "title": "プロジェクト",
+    "description": "以下は、Kotlinを使用したAndroid開発のプロジェクトの一部です。",
+    "card_game": {
+      "title": "カードゲーム",
+      "description": "ユニークな10色のカードを集めると勝利するカード選択ゲームです。各カードを選ぶと、取得したカードを示す電話通知が表示されます。"
+    },
+    "scroller": {
+      "title": "エンドレススクローラー",
+      "description": "Instagramのようなエンドレススクローラーで、番号付きのボックスが表示されます。将来のアップデートで、写真表示や「いいね」機能が統合される予定です。"
+    },
+    "translator": {
+      "title": "日本語翻訳アプリ",
+      "description": "日本語のウェブサイト向けのアプリケーションです。日本語のテキストをコピーすると、その定義と英語およびひらがなでの読み方が画面に表示されます。コピーされた単語は、読み方、定義、日付、タイムスタンプとともに、別の「お気に入り」ページに保存され、後で確認できます。"
+    }
+  },
+  "experience": {
+    "title": "経験",
+    "education": {
+      "title": "教育経験",
+      "description_p1": "11年間の教育経験を持ち、韓国、日本、アメリカで英語および外国語を教えてきました。英語、スペイン語、フランス語、韓国語、日本語を指導し、言語クラスや課外クラブを立ち上げました。また、韓国語教師協会および日本語教師協会のメンバーでもあります。",
+      "description_p2": "現在、GHJインターナショナルで主任カリキュラムデザイナーとして働き、大学生にTEFL認定のための指導を行っています。ESOLおよびESEに特化し、SIOP、ディスレクシア、複数言語にわたるリーディングとリテラシー、UDL、個別化指導、小グループ指導、ターゲット介入に専門知識があります。",
+      "description_p3": "また、SAT、ACT、FASTの個別指導で優れた成果を上げています。",
+      "skills": {
+        "english_teaching": "英語指導",
+        "foreign_languages": "外国語",
+        "curriculum_design": "カリキュラム設計",
+        "esol_specialist": "ESOL専門家",
+        "ese_specialist": "ESE専門家",
+        "siop": "SIOP",
+        "dyslexia": "ディスレクシア",
+        "reading_literacy": "読解力・リテラシー",
+        "udl": "UDL",
+        "differentiatiion": "個別化指導",
+        "small_groups": "小グループ指導",
+        "targeted_intervention": "ターゲット介入",
+        "sat_act_tutoring": "SAT/ACT個別指導",
+        "fast_tutoring": "FAST個別指導"
+      }
+    },
+    "technology": {
+      "title": "技術経験",
+      "description": "情報システム管理の背景を持ち、教育技術に特化しています。コーディングに情熱を持ち、さまざまな設定でコーディングを教えています。専門知識には、Android開発のためのKotlin/Java、iOS開発のためのSwift、Web開発のためのJavaScript（主にVue.js）があります。また、ゲームプログラミングのためのPythonとC++の経験もあります。",
+      "skills": {
+        "kotlin_java": "Kotlin/Java",
+        "swift": "Swift",
+        "javascript": "JavaScript",
+        "vuejs": "Vue.js",
+        "python": "Python",
+        "cpp": "C++",
+        "game_programming": "ゲームプログラミング",
+        "edtech": "EdTech"
+      }
+    }
+  },
+  "contact": {
+    "title": "連絡先",
+    "description": "ご質問などございましたら、お気軽にメール、LinkedIn、GitHubまでご連絡ください。"
+  }
+}
